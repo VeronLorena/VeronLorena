@@ -1,4 +1,4 @@
-![Imagen derorativa del perfil](https://miro.medium.com/max/1200/1*QK2QwITDpJSdCfFd2brn4w.jpeg?raw=true)
+![Imagen derorativa del perfil](https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/04/20/626015a79117d.jpeg?raw=true)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align= "center">Hola soy Lorena</h1>
