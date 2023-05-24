@@ -1,8 +1,8 @@
-![Imagen derorativa del perfil](https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/04/20/626015a79117d.jpeg?raw=true)
+![Imagen derorativa del perfil](https://external-preview.redd.it/b0dsJARvOW4wyoaIeaUD8Zmlul4Og6635pjceHUFHLE.jpg?auto=webp&v=enabled&s=2af1eeb37fd7ee88d7a6fb004f0ead6cea9e5875)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align= "center">Hola soy Lorena</h1>
-<h2 align="center">Soy Estudiante de la carrera Developer Front-end</h2>
+<h2 align="center">Soy Developer Front-end y actualmente estudiante de QA</h2>
 
 
 - 👉 SOBRE MI:
