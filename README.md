@@ -62,7 +62,12 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/s_2Q1_1Eka0AAAAC/anime-girl.gif"  />
+
+<img align="right" height="100" src="https://github.com/user-attachments/assets/47c39400-5c88-40e1-9d28-0e387189901b" />
+
+
+
+
 
 ###
 
